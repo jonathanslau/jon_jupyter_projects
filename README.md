@@ -6,4 +6,6 @@ For years, I have been resigned to this. I still am. I have accepted it as the w
 
 All else equal, more surface area means there is more fur for getting on your clothes. But assumptions must be tested. They must be quantified.
 
-I will build a tool to estimate my cat's surface area. The tool will allow others to graph and compare their cat visually next to mine. We'll have some fun drawing kitties with 3d shapes.
+I will build a web tool to estimate my cat's surface area. The tool will allow others to graph and compare their cat quantitatively and visually next to mine. We'll have some fun drawing kitties with 3d shapes.
+
+https://math-and-cats.herokuapp.com/app/1
