@@ -1,4 +1,4 @@
-# math_and_cats
+## math_and_cats
 
 Cat fur thoroughly permeates my living space. I vacuum frequently, but the cat fur returns. My possessions, my clothes, my life, enveloped by it. I cannot escape the cat fur.
 
