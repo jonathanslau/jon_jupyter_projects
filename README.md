@@ -8,4 +8,4 @@ All else equal, more surface area means there is more fur for getting on your cl
 
 I will build a web tool to estimate my cat's surface area. The tool will allow others to graph and compare their cat quantitatively and visually next to mine. We'll have some fun drawing kitties with 3d shapes.
 
-https://math-and-cats.herokuapp.com/app/1
+https://jon-jupyter-projects-11382e4059fa.herokuapp.com/
